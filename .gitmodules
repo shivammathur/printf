@@ -1,0 +1,6 @@
+[submodule "src/coreutils"]
+	path = src/coreutils
+	url = https://github.com/coreutils/coreutils.git
+[submodule "src/gnulib"]
+	path = src/gnulib
+	url = https://github.com/coreutils/gnulib.git
